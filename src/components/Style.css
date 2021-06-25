@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+}
+.update {
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.logout {
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.account {
+  margin-right: 20px;
+
+  color: white;
+}
+* {
+  margin: 0;
+}
+.containe {
+  border-style: ridge;
+  padding: 50px;
+  padding-right: 11px;
+  padding-left: 11px;
+  margin-top: 90px;
+}
